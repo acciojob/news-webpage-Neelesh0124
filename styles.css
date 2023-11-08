@@ -16,30 +16,22 @@ body{
 	height: 60px;
 }
 section{
+	display: flex;
 	justify-content: space-between;
 	background-color: yellowgreen;
 	width: 90%;
 	margin: auto;
-	margin-top: 
+	margin-top: 10px;
 }
 .latest-news-section{
 	background-color: white;
 	border-radius: 10px;
-	
-	height: 100px;
 }
 .Main-article{
-	
 	background-color: white;
 	border-radius: 10px;
-	eight: 100px; margin-top: 10px;
-
 }
-
-
 .pictorial-news-section{
-	
-	height: 60px;
 	background-color: white;
 	border-radius: 10px;
 }
