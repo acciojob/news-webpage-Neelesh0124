@@ -28,6 +28,8 @@ section{
 	border-radius: 10px;
 }
 .Main-article{
+	display: flex;
+	flex: 2;
 	background-color: white;
 	border-radius: 10px;
 }
